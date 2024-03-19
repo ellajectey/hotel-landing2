@@ -9,7 +9,7 @@ function Hero() {
             <br/>
             <div className='bg-teal-700 opacity-90 px-8 text-center rounded-lg'>
             <h1 className='text-center text-white text-4xl px-4 py-4'>Welcome  
-            <span className='text-3xl  text-orange-300'> to BeaHotel</span>
+            <span className='text-4xl  text-orange-300'> to BeaHotel</span>
             </h1>
             
             </div>
