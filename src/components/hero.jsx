@@ -11,7 +11,6 @@ function Hero() {
             <h1 className='text-center text-white text-4xl px-4 py-4'>Welcome  
             <span className='text-4xl  text-orange-300'> to BeaHotel</span>
             </h1>
-            
             </div>
             
            
